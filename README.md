@@ -3,7 +3,7 @@
 ### CONCEPT
 Monsters Rolodex is a fun app that displays a catalogue of monster profiles, including a search feature that updates the result dinamically, at each and every search input change.
 
-App deployed in: https://monster-rolodex-delight.netlify.app/
+App deployed in: [https://monster-rolodex-delight.netlify.app/](https://monster-rolodex-delight.netlify.app/)
 
 ### PROJET CHARACTERISTICS 
 The project is a SPA website built with React. The project was made initially using class components, eventually changing to the use of functional components, comprising Hooks to manage state (useEffect) and side-effects (useEffect).
@@ -28,4 +28,7 @@ To run the application, execute:
 ```bash
 yarn start
 ```
-The app is going to run on [127.0.0.1:3000](http://127.0.0.1:3000/).
+The app will attempt to run on [127.0.0.1:3000](http://127.0.0.1:3000/).
+
+### DISCLAIMER
+This project was made during the course *Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)*. Although an assignment project, I coded it entirely by myself, not copying a single line from sources provided by the course.
